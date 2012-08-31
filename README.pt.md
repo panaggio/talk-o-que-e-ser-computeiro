@@ -6,7 +6,7 @@ computeiro", apresentada na UPA (Unicamp de Portas Abertas) de 2011 e 2012.
   - 2011/09/02: [Unicamp de Portas Abertas 2011](http://upa.unicamp.br/2011)
   - 2012/09/01: [Unicamp de Portas Abertas 2012](http://upa.unicamp.br)
 
-## Uso #
+## Uso
 
 Se você quiser rodar essa apresentação, você deve antes de mais nada
 baixá-la do Github e então executar o ShowOff:

@@ -7,7 +7,7 @@ in 2011 and 2012.
   - 2011/09/02: [Unicamp de Portas Abertas 2011](http://upa.unicamp.br/2011)
   - 2012/09/01: [Unicamp de Portas Abertas 2012](http://upa.unicamp.br)
 
-## Usage #
+## Usage
 
 If you want to run this presentation, you should first get it from Github
 and then run the ShowOff server:
