@@ -2,9 +2,6 @@
 
 # O que é ser computeiro #
 
-## Unicamp de Portas Abertas 2011 ##
+## Unicamp de Portas Abertas 2012 ##
 
 Ricardo Panaggio
-
-[![Umamão](umamao-logo.png)](http://umamao.com)
-[![Fonista](fonista-logo.png)](http://fonista.co)
