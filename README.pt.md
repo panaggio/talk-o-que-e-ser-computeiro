@@ -1,7 +1,10 @@
 # O que é ser computeiro - Unicamp de Portas Abertas / UPA 2011
 
 Esse é o código fonte dos slides utilizados por mim na palestra "O que é ser
-computeiro", apresentada na UPA (Unicamp de Portas Abertas) de 2011.
+computeiro", apresentada na UPA (Unicamp de Portas Abertas) de 2011 e 2012.
+
+  - 2011/09/02: [Unicamp de Portas Abertas 2011](http://upa.unicamp.br/2011)
+  - 2012/09/01: [Unicamp de Portas Abertas 2012](http://upa.unicamp.br)
 
 ## Uso #
 

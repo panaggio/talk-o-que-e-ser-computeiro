@@ -2,7 +2,10 @@
 
 This is the source code of the slides I used for my talk "O que é ser
 computeiro" (How is it to be a CS guy) at Unicamp de Portas Abertas event,
-in 2011.
+in 2011 and 2012.
+
+  - 2011/09/02: [Unicamp de Portas Abertas 2011](http://upa.unicamp.br/2011)
+  - 2012/09/01: [Unicamp de Portas Abertas 2012](http://upa.unicamp.br)
 
 ## Usage #
 
