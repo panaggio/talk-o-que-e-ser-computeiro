@@ -19,7 +19,7 @@
 > Qualquer forma de cálculo
 - [Wikipedia](https://secure.wikimedia.org/wikipedia/en/wiki/Computation)
 
-!SLIDE
+!SLIDE center
 # [![Computadores humanos!](human-computers.png)](https://secure.wikimedia.org/wikipedia/en/wiki/File:Human\_computers\_-\_Dryden.jpg) #
 
 [Imagem em domínio público](https://secure.wikimedia.org/wikipedia/en/wiki/File:Human\_computers\_-\_Dryden.jpg)
