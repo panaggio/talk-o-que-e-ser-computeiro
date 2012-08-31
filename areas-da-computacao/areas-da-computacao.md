@@ -62,7 +62,7 @@ zzz...
 
 !SLIDE
 # Criptografia #
-## Como criar algorítmos proteger dados privados ou confidenciais ##
+## Como criar algorítmos para proteger dados privados ou confidenciais ##
 
 !SLIDE
 # Engenharia de software #
