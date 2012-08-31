@@ -22,8 +22,7 @@
 !SLIDE center
 # [![Computadores humanos!](human-computers.png)](https://secure.wikimedia.org/wikipedia/en/wiki/File:Human\_computers\_-\_Dryden.jpg) #
 
-[Imagem em domínio público](https://secure.wikimedia.org/wikipedia/en/wiki/File:Human\_computers\_-\_Dryden.jpg)
-
+<a class='cc' href='https://secure.wikimedia.org/wikipedia/en/wiki/File:Human\_computers\_-\_Dryden.jpg'>Domínio Público. Por Nasa, em Wikimedia Commons</a>
 !SLIDE quotation
 
 > Uso de computadores para processamento de informação
