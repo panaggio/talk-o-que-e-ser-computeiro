@@ -10,12 +10,17 @@
 }
 
 body {
-  font-family: 'Putiran',Ubuntu,sans-serif;
+  font-family: Optima,'Putiran',Ubuntu,sans-serif;
   font-size: 0.9em;
 }
 
 h1, h2, h3, h4, h5, h6 {
   font-family: "Trebuchet MS",Helvetica,Jamrul,sans-serif;
+}
+
+code {
+  font-family: Monaco,Menlo,monospace;
+  font-size: 0.8em;
 }
 
 #footer {
@@ -41,7 +46,6 @@ canvas, svg {
 }
 
 .slide p {
-  font-size: 2.5em;
   margin-top: 5px;
   margin-left: 1em;
   margin-right: 1em;
@@ -55,6 +59,7 @@ canvas, svg {
 .slide .center, .slide .center p {
   margin-left: 0;
   margin-right: 0;
+  text-align: center;
 }
 
 .slide ul {
@@ -85,4 +90,10 @@ h1 {
 
 h2 {
   font-size: 2.5em;
+}
+
+a.cc {
+  width: 100%;
+  color: #888;
+  font-size: 0.5em;
 }
